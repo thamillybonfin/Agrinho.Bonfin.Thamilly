@@ -112,7 +112,7 @@ footer {
 .gota-agua {
     width: 40px;
     height: 60px;
-    background: radial-gradient(circle at 50% 30%, #4fc3f7 0%, #0277bd 100%);
+    background: radial-gradient(circle at 50% 30%, #4fc3f7 0%, #0485cf 100%);
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
     margin: 40px auto;
     animation: drip 2s infinite;
